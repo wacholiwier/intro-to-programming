@@ -18,7 +18,5 @@ while True:
         response_index += 1
         response_index = (response_index) % len(general_responses)
 
-print("Thanks")
-
 
     
